@@ -21,7 +21,7 @@ if (ga_cds_cirque !== false && ga_cds_cirque != 'false' && ga_cds_cirque) {
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
     })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-    ga('create', 'UA-15123064-6', 'auto', {'allowLinker': true, 'name':'cdsga'});
+    ga('create', 'UA-15123064-8', 'auto', {'allowLinker': true, 'name':'cdsga'});
     ga('cdsga.require', 'ec');
     ga('cdsga.ec:addProduct', {
         'id': ga_cds_data.show_name,
